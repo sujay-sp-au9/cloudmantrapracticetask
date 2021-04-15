@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/styles.css"],"names":[],"mappings":"AACA,KACE,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,0BAAmB,CAAnB,kBACF","file":"main.b95ef834.chunk.css","sourcesContent":["@import \"~antd/dist/antd.css\";\n#app {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n"]}

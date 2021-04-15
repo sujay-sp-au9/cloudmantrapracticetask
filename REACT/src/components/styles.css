@@ -1,0 +1,6 @@
+@import "~antd/dist/antd.css";
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
